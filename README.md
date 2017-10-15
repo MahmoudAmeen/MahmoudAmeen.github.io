@@ -1,15 +1,15 @@
 # MahmoudAmeen.github.io
 this is a list of the websites I have built.
 
-1- the first website here is about mobile app called Gamma App 
+1- the first website here is about mobile app called Gamma App.
 I built it using HTML,CSS,Bootstrap.
 you can check it here: 
 https://mahmoudameen.github.io/project_1/index.html
 
 -----------------------------------------------------------------------------
 
-2-the second website is a simple portfolio website
-I made it using HTML,CSS,Bootstrap,Sass
+2-the second website is a simple portfolio website.
+I made it using HTML,CSS,Bootstrap,Sass.
 you can check it here: 
 https://mahmoudameen.github.io/project_2_portfolio_1/index.html
 
@@ -29,14 +29,14 @@ I used WordPress CMS to build it and made a lot of customization to Azera shop t
 with custom metadata and custom page templates. 
 
 these are some of the website functionality: 
-1: ability to accept donations
-2: you can sponsor a child and make a recurring donation for him/her. 
-as well as some other features like an event manager, social media feed, and chat box (I'll add the chat box in after uploading the website
-to its final hosting.)
+1- ability to accept donations.
+1- you can sponsor a child and make a recurring donation for him/her.
+
+as well as some other features like an event manager, social media feed, and chat box (I'll add the chat box in after uploading the websiteto its final hosting).
+
 Note: the website needs a lot of optimization and improvements and it still under construction.
 you can check it here: 
-hardich.co.nf/WordPress
-
+http://hardich.co.nf/wordpress
 
 
 -----------------------------------------------------------------------------
