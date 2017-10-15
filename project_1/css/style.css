@@ -1,0 +1,178 @@
+body {
+  padding-top: 50px;
+}
+.em-text{
+
+	color:#1caa98 !important;
+}
+.jumbotron{
+	background: url(../img/background.jpg) top center no-repeat;
+	color: #eaeaea;
+	height: 90%;
+	overflow: none;
+}
+
+.jumbotron h1{
+	margin-top: 75px;
+
+}
+.jumbotron p{
+	margin: 40px 0;
+
+}
+ .jumbotron img.app-btn{
+ 	margin-right: 30px;
+ 	width: 40%;
+ }
+
+ img.showcase-img{
+ 	width: 70%;
+ 	margin-left: 10%;
+
+ }
+ img.demo{
+ 	width: 100%;
+ 	padding: 3px;
+ 	border: 1px solid #ccc;
+ }
+
+ section{
+ 	padding: 40px 0;
+ }
+
+ section#features{
+
+ 	background-color: #1caa98;
+ 	color: #eaeaea;
+ 	overflow: auto;
+ }
+ section#features ul li {
+ 	font-size: 22px;
+ 	list-style: none;
+ 	line-height: 2em;
+ }
+
+ .big-icon{
+ 	margin: 20px 0;
+ 	color: #333;
+ 	font-size: 20em;
+ }
+ footer{
+ 	background:#333;
+ 	color:#eaeaea;
+ 	padding: 30px 0 20px 0 
+ }
+ footer ul {
+ 	padding:  0 ;
+ }
+ footer li {
+ 	float:left;
+ 	padding:0 10px;
+ 	list-style: none;
+
+ }
+ footer a{
+ 	color: #eaeaea;
+
+ }
+ footer p{
+ 	float: right;
+ }
+
+
+ /* about page */
+
+ img.app-btn{
+ 	margin-top: 20px;
+ 	margin-right: 30px;
+ 	width: 60%;
+ }
+
+ #header-title{
+ 	margin:0;
+ 	padding:30px 0 30px 0;
+ 	background: #1caa98;
+ 	color: #eaeaea;
+ }
+/*media queries */
+ @media(max-width: 1200px){
+.big-icon{
+ 	
+ 	font-size: 20em;
+ }
+
+ }
+  @media (max-width: 991px){
+.showcase-img{
+	display: none;
+
+}
+.jumbotron {
+	height: 80%;
+}
+.jumbotron h1{
+	margin-top: 30px;
+
+}
+
+ .jumbotron img.app-btn{
+ 	width: 20%;
+ }
+ .break{
+ 	padding-bottom: 20px;
+ }
+ 
+ .big-icon-container{
+ 	text-align: center;
+ }
+  
+   
+ }
+  @media(max-width: 768px){
+.jumbotron img.app-btn{
+ 	width: 30%;
+ 	
+ }
+footer{
+	text-align: center;
+}
+footer ul{
+	padding: 10px 0 ;
+	
+}
+footer .col-xs-12 {
+	float: none;
+	
+	}
+footer p{
+	float: none;
+	text-align: center;
+
+}
+ }
+  @media(max-width: 500px){
+.jumbotron img.app-btn{
+ 	width: 55%;
+ 	display: block;
+ 	margin: 25px auto
+
+ }
+ .jumbotron {
+	text-align: center;
+}
+.break{
+text-align: center;
+}
+ section#features ul li {
+	font-size: 19px;
+
+}
+section#features ul{
+	padding: 0;
+	margin: 0;
+}
+
+
+}
+ 
+
