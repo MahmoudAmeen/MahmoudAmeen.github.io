@@ -30,7 +30,7 @@ with custom metadata and custom page templates.
 
 these are some of the website functionality: 
 1- ability to accept donations.
-1- you can sponsor a child and make a recurring donation for him/her.
+2- you can sponsor a child and make a recurring donation for him/her.
 
 as well as some other features like an event manager, social media feed, and chat box (I'll add the chat box in after uploading the websiteto its final hosting).
 
