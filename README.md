@@ -1,8 +1,8 @@
 # MahmoudAmeen.github.io
 this is a list of the websites I have built.
 
-1- the first website here is about mobile app called Gamma App.
-I built it using HTML,CSS,Bootstrap.
+1- the first website here is about mobile app called Gamma App.<br>
+I built it using HTML,CSS,Bootstrap.<br>
 you can check it here: 
 https://mahmoudameen.github.io/project_1/index.html
 
