@@ -1,0 +1,98 @@
+/*Vars*/
+body {
+  padding-bottom: 0;
+  font-family: 'Open Sans ', Arial , Tahoma;
+  color: #363636;
+  background: #cccccc;
+  font-size: 16px;
+}
+
+.primary, strong, h2 {
+  color: #3b5a76;
+}
+
+.container-main {
+  background-color: #fff;
+  margin-top: 80px;
+  padding: 0 30px 30px 30px;
+}
+
+header {
+  min-height: 100px;
+  overflow: visible;
+}
+
+header h1 {
+  margin: 0;
+  padding-top: 20px;
+  font-size: 2.2em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  text-align: center;
+  line-height: 1.4em;
+}
+
+.my-img {
+  width: 160px;
+  margin: auto;
+  margin-top: -80px;
+  display: block;
+  z-index: 9999;
+  overflow: visible;
+}
+
+.line {
+  width: 100%;
+  height: 5px;
+  background: radial-gradient(ellipse at center, #b3bead 0%, #fcfff4 63%);
+}
+
+h2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  line-height: 1.4em;
+}
+
+.contacts-list {
+  padding: 0px;
+  margin: 0px;
+}
+
+.contacts-list li {
+  display: block;
+  list-style: none;
+  font-weight: bold;
+  line-height: 2.2em;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.media {
+  background-color: #cccccc;
+  padding: 10px;
+}
+
+.list-work li {
+  list-style: none;
+  float: left;
+  padding: 0 20 0 20;
+  margin-bottom: 30px;
+  display: block;
+}
+
+footer {
+  color: #fff;
+  background-color: #3b5a76;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.list-work li img {
+  width: 90%;
+  display: block;
+}
