@@ -32,7 +32,7 @@ these are some of the website functionality: <br>
 1- ability to accept donations.<br>
 2- you can sponsor a child and make a recurring donation for him/her.<br>
 
-as well as some other features like an event manager, social media feed, and chat box (I'll add the chat box in after uploading the <br>
+as well as some other features like an event manager, social media feed, and chat box (I'll add the chat box in after uploading the
 website to its final hosting).<br>
 
 Note: the website needs a lot of optimization and improvements and it still under construction.<br>
