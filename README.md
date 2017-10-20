@@ -4,7 +4,8 @@ this is a list of the websites I have built.
 1- the first website here is about mobile app called Gamma App.<br>
 I built it using HTML,CSS,Bootstrap.<br>
 you can check it here: 
-https://mahmoudameen.github.io/project_1/index.html
+https://mahmoudameen.github.io/project_1/index.html <br>
+Note: this is an artificial website I made as a template.
 
 -----------------------------------------------------------------------------
 
@@ -31,14 +32,30 @@ with custom metadata and custom page templates. <br>
 these are some of the website functionality: <br>
 1- ability to accept donations.<br>
 2- you can sponsor a child and make a recurring donation for him/her.<br>
-
+3- it have an event manager.
 as well as some other features like an event manager, social media feed, and chat box (I'll add the chat box in after uploading the
 website to its final hosting).<br>
 
 Note: the website needs a lot of optimization and improvements and it still under construction.<br>
 you can check it here: <br>
-http://hardich.co.nf/wordpress
+http://hardich.co.nf/wordpress <br>
+
+the custom page templates I made for the website:  <br>
+the child post type custom page: <br>
+http://hardich.co.nf/wordpress/children/ <br>
+
+the single child post type custom page: <br>
+http://hardich.co.nf/wordpress/children/samedi-loveson/ <br>
+
 
 
 -----------------------------------------------------------------------------
 
+5- The last task I made was making some customizations for a Volusion Ecommerce website, <br>
+you can check the website here: <br>
+http://www.inofficelab.com/Default.asp <br>
+
+it was a small task which included: <br>
+- adding responsive features grid with animated icons and changing the colors of the website(Header , footer , font colors) <br>
+- fixing some responsivness issues and making some tweeks to the website. <br>
+- adding chat box using Tawk.to <br>
