@@ -9,7 +9,14 @@ Note: this is an artificial website I made as a template.
 
 -----------------------------------------------------------------------------
 
-2-the second website is a simple portfolio website.<br>
+2- This website is a prototype for a non-profit organization for supporting the children of Haiti.<br>
+I made it using HTML,CSS,JS,w3.css and it's only a prototype which I made in less than 24 hours. <br>
+you can check it here:<br>
+http://give-hope-to-haiti-children.bitballoon.com/<br>
+
+-----------------------------------------------------------------------------
+
+3- this website is a simple portfolio website.<br>
 I made it using HTML,CSS,Bootstrap,Sass.<br>
 you can check it here: <br>
 https://mahmoudameen.github.io/project_2_portfolio_1/index.html<br>
@@ -17,12 +24,6 @@ https://mahmoudameen.github.io/project_2_portfolio_1/index.html<br>
 
 -----------------------------------------------------------------------------
 
-3- This website is a prototype for a non-profit organization for supporting the children of Haiti.<br>
-I made it using HTML,CSS,JS,w3.css and it's only a prototype which I made in less than 24 hours. <br>
-you can check it here:<br>
-http://give-hope-to-haiti-children.bitballoon.com/<br>
-
------------------------------------------------------------------------------
 
 4- This website is a near-final product for the same non-profit org that I made the prototype for. <br>
 
