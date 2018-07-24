@@ -40,5 +40,11 @@
 			color:white !important;
 
 		}
+		
+		.buttons :active{
+			text-decoration: none !important;
+			color:white !important;
+
+		}
 
 
