@@ -46,5 +46,15 @@
 			color:white !important;
 
 		}
+ @media only screen and (max-width: 600px) {
+		 	.custom-btn {
+			transform: scale(1.5);
 
+		}
+		.buttons{
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
+		
+		}
 
