@@ -30,8 +30,9 @@
 			margin-top: 20px;
 			margin-bottom: 20px;
 		}
-		.buttons :hover, .buttons :focus{
-			text-decoration: none;
-			color:white;
+		.buttons :hover{
+			text-decoration: none !important;
+			color:white !important;
+
 		}
 
