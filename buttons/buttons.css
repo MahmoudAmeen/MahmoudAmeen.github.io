@@ -49,7 +49,7 @@
 
  		@media only screen and (max-width: 600px) {
 		 	.custom-btn {
-			transform: scale(1.5);
+			transform: scale(9);
 
 			}
 			.buttons{
