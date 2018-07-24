@@ -35,4 +35,10 @@
 			color:white !important;
 
 		}
+		.buttons :focus{
+			text-decoration: none !important;
+			color:white !important;
+
+		}
+
 
